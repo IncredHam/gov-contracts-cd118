@@ -1,0 +1,442 @@
+rep_name,district_pretty,state,geoid20,party,office,phone,all_committees,appropriations,agriculture,oversight_and_accountability,armed_services,natural_resources,foreign_affairs,homeland_security,education_and_the_workforce,energy_and_commerce,ways_and_means,financial_services,transportation_and_infrastructure,small_business,judiciary,budget,select_subcommittee_on_the_weaponization_of_the_fed_govt,joint_committee_on_taxation,house_administration,Intelligence,select_subcommittee_on_the_coronavirus_pandemic,science_space_and_technology,veterans_affairs,select_sub_us_china,ethics,Rules,joint_library
+Robert Aderholt,Alabama 4th,Alabama ,0104,R,266 CHOB,(202) 225-4876,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jerry Carl,Alabama 1st,Alabama ,0101,R,1330 LHOB,(202) 225-4931,appropriations|natural_resources,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barry Moore,Alabama 2nd,Alabama ,0102,R,1504 LHOB,(202) 225-2901,agriculture|judiciary,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Gary Palmer,Alabama 6th,Alabama ,0106,R,170 CHOB,(202) 225-4921,oversight_and_accountability|energy_and_commerce,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mike Rogers,Alabama 3rd,Alabama ,0103,R,2469 RHOB,(202) 225-3261,armed_services,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Terri Sewell,Alabama 7th,Alabama ,0107,D,1035 LHOB,(202) 225-2665,armed_services|house_administration|joint_library|ways_and_means,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Dale Strong,Alabama 5th,Alabama ,0105,R,1337 LHOB,(202) 225-4801,armed_services|homeland_security|science_space_and_technology,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Mary Peltola,Alaska ,Alaska ,0200,D,153 CHOB,(202) 225-5765,natural_resources|transportation_and_infrastructure,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andy Biggs,Arizona 5th,Arizona ,0405,R,252 CHOB,(202) 225-2635,oversight_and_accountability|judiciary,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Juan Ciscomani,Arizona 6th,Arizona ,0406,R,1429 LHOB,(202) 225-2542,appropriations|veterans_affairs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Elijah Crane,Arizona 2nd,Arizona ,0402,R,1229 LHOB,(202) 225-3361,homeland_security|small_business|veterans_affairs,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Ruben Gallego,Arizona 3rd,Arizona ,0403,D,1114 LHOB,(202) 225-4065,armed_services|natural_resources,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paul Gosar,Arizona 9th,Arizona ,0409,R,2057 RHOB,(202) 225-2315,oversight_and_accountability|natural_resources,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Raul Grijalva,Arizona 7th,Arizona ,0407,D,1203 LHOB,(202) 225-2435,education_and_the_workforce|natural_resources,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Debbie Lesko,Arizona 8th,Arizona ,0408,R,1214 LHOB,(202) 225-4576,energy_and_commerce|select_subcommittee_on_the_coronavirus_pandemic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+David Schweikert,Arizona 1st,Arizona ,0401,R,460 CHOB,(202) 225-2190,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Greg Stanton,Arizona 4th,Arizona ,0404,D,207 CHOB,(202) 225-9888,foreign_affairs|transportation_and_infrastructure,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eric Crawford,Arkansas 1st,Arkansas ,0501,R,2422 RHOB,(202) 225-4076,agriculture|Intelligence|transportation_and_infrastructure|science_space_and_technology,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+J. Hill,Arkansas 2nd,Arkansas ,0502,R,1533 LHOB,(202) 225-2506,financial_services|foreign_affairs|Intelligence,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Bruce Westerman,Arkansas 4th,Arkansas ,0504,R,202 CHOB,(202) 225-3772,natural_resources|transportation_and_infrastructure,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Steve Womack,Arkansas 3rd,Arkansas ,0503,R,2412 RHOB,(202) 225-4301,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pete Aguilar,California 33rd,California ,0633,D,108 CHOB,(202) 225-3201,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nanette Barragan,California 44th,California ,0644,D,2312 RHOB,(202) 225-8220,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ami Bera,California 6th,California ,0606,D,172 CHOB,(202) 225-5716,foreign_affairs|Intelligence|select_subcommittee_on_the_coronavirus_pandemic,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Julia Brownley,California 26th,California ,0626,D,2262 RHOB,(202) 225-5811,transportation_and_infrastructure|veterans_affairs,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Ken Calvert,California 41st,California ,0641,R,2205 RHOB,(202) 225-1986,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salud Carbajal,California 24th,California ,0624,D,2331 RHOB,(202) 225-3601,agriculture|armed_services|transportation_and_infrastructure,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tony Cardenas,California 29th,California ,0629,D,2181 RHOB,(202) 225-6131,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Judy Chu,California 28th,California ,0628,D,2423 RHOB,(202) 225-5464,small_business|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+J. Correa,California 46th,California ,0646,D,2301 RHOB,(202) 225-2965,homeland_security|judiciary,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Jim Costa,California 21st,California ,0621,D,2081 RHOB,(202) 225-3341,agriculture|foreign_affairs,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mark DeSaulnier,California 10th,California ,0610,D,503 CHOB,(202) 225-2095,education_and_the_workforce|transportation_and_infrastructure|ethics,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+John Duarte,California 13th,California ,0613,R,1535 LHOB,(202) 225-1947,agriculture|natural_resources|transportation_and_infrastructure,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anna Eshoo,California 16th,California ,0616,D,272 CHOB,(202) 225-8104,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+John Garamendi,California 8th,California ,0608,D,2004 RHOB,(202) 225-1880,armed_services|select_subcommittee_on_the_weaponization_of_the_fed_govt|transportation_and_infrastructure,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Mike Garcia,California 27th,California ,0627,R,144 CHOB,(202) 225-1956,appropriations|Intelligence|science_space_and_technology,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+Robert Garcia,California 42nd,California ,0642,D,1305 LHOB,(202) 225-7924,oversight_and_accountability|homeland_security|select_subcommittee_on_the_coronavirus_pandemic,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Jimmy Gomez,California 34th,California ,0634,D,506 CHOB,(202) 225-6235,oversight_and_accountability|Intelligence,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Josh Harder,California 9th,California ,0609,D,209 CHOB,(202) 225-4540,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jared Huffman,California 2nd,California ,0602,D,2445 RHOB,(202) 225-5161,natural_resources|transportation_and_infrastructure,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Darrell Issa,California 48th,California ,0648,R,2108 RHOB,(202) 225-5672,foreign_affairs|select_subcommittee_on_the_weaponization_of_the_fed_govt|judiciary|science_space_and_technology,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+Sara Jacobs,California 51st,California ,0651,D,1314 LHOB,(202) 225-2040,armed_services|foreign_affairs,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sydney Kamlager-Dove,California 37th,California ,0637,D,1419 LHOB,(202) 225-7084,foreign_affairs|natural_resources,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ro Khanna,California 17th,California ,0617,D,306 CHOB,(202) 225-2631,armed_services|oversight_and_accountability|select_sub_us_china,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Kevin Kiley,California 3rd,California ,0603,R,1032 LHOB,(202) 225-2523,education_and_the_workforce|judiciary,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Young Kim,California 40th,California ,0640,R,1306 LHOB,(202) 225-4111,financial_services|foreign_affairs,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Doug LaMalfa,California 1st,California ,0601,R,408 CHOB,(202) 225-3076,agriculture|natural_resources|transportation_and_infrastructure,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barbara Lee,California 12th,California ,0612,D,2470 RHOB,(202) 225-2661,appropriations|budget,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Mike Levin,California 49th,California ,0649,D,2352 RHOB,(202) 225-3906,natural_resources|veterans_affairs,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Ted Lieu,California 36th,California ,0636,D,2454 RHOB,(202) 225-3976,foreign_affairs|judiciary|science_space_and_technology,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Zoe Lofgren,California 18th,California ,0618,D,1401 LHOB,(202) 225-3072,judiciary|science_space_and_technology,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Doris Matsui,California 7th,California ,0607,D,2311 RHOB,(202) 225-7163,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kevin McCarthy,California 20th,California ,0620,R,2468 RHOB,(202) 225-2915,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tom McClintock,California 5th,California ,0605,R,2256 RHOB,(202) 225-2511,budget|natural_resources|judiciary,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Kevin Mullin,California 15th,California ,0615,D,1404 LHOB,(202) 225-3531,natural_resources|science_space_and_technology,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Grace Napolitano,California 31st,California ,0631,D,1610 LHOB,(202) 225-5256,natural_resources|transportation_and_infrastructure,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jay Obernolte,California 23rd,California ,0623,R,1029 LHOB,(202) 225-5861,energy_and_commerce|science_space_and_technology,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Jimmy Panetta,California 19th,California ,0619,D,304 CHOB,(202) 225-2861,armed_services|budget|ways_and_means,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Nancy Pelosi,California 11th,California ,0611,D,1236 LHOB,(202) 225-4965,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scott Peters,California 50th,California ,0650,D,1201 LHOB,(202) 225-0508,budget|energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Katie Porter,California 47th,California ,0647,D,1233 LHOB,(202) 225-5611,oversight_and_accountability|natural_resources,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Raul Ruiz,California 25th,California ,0625,D,2342 RHOB,(202) 225-5330,energy_and_commerce|select_subcommittee_on_the_coronavirus_pandemic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Linda Sanchez,California 38th,California ,0638,D,2428 RHOB,(202) 225-6676,select_subcommittee_on_the_weaponization_of_the_fed_govt|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Adam Schiff,California 30th,California ,0630,D,2309 RHOB,(202) 225-4176,judiciary,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Brad Sherman,California 32nd,California ,0632,D,2365 RHOB,(202) 225-5911,financial_services|foreign_affairs,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michelle Steel,California 45th,California ,0645,R,1127 LHOB,(202) 225-2415,education_and_the_workforce|ways_and_means|select_sub_us_china,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Eric Swalwell,California 14th,California ,0614,D,174 CHOB,(202) 225-5065,homeland_security|judiciary,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Mark Takano,California 39th,California ,0639,D,2078 RHOB,(202) 225-2305,education_and_the_workforce|veterans_affairs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Mike Thompson,California 4th,California ,0604,D,268 CHOB,(202) 225-3311,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Norma Torres,California 35th,California ,0635,D,2227 RHOB,(202) 225-6161,appropriations|house_administration,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+David Valadao,California 22nd,California ,0622,R,2465 RHOB,(202) 225-4695,appropriations|budget,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Juan Vargas,California 52nd,California ,0652,D,2334 RHOB,(202) 225-8045,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maxine Waters,California 43rd,California ,0643,D,2221 RHOB,(202) 225-2201,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lauren Boebert,Colorado 3rd,Colorado ,0803,R,1713 LHOB,(202) 225-4761,oversight_and_accountability|natural_resources,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ken Buck,Colorado 4th,Colorado ,0804,R,2455 RHOB,(202) 225-4676,foreign_affairs|judiciary,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Yadira Caraveo,Colorado 8th,Colorado ,0808,D,1024 LHOB,(202) 225-5625,agriculture|science_space_and_technology,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Jason Crow,Colorado 6th,Colorado ,0806,D,1323 LHOB,(202) 225-7882,foreign_affairs|Intelligence,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Diana DeGette,Colorado 1st,Colorado ,0801,D,2111 RHOB,(202) 225-4431,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Doug Lamborn,Colorado 5th,Colorado ,0805,R,2371 RHOB,(202) 225-4422,armed_services|natural_resources,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joe Neguse,Colorado 2nd,Colorado ,0802,D,2400 RHOB,(202) 225-2161,natural_resources|judiciary|Rules,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Brittany Pettersen,Colorado 7th,Colorado ,0807,D,1230 LHOB,(202) 225-2645,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joe Courtney,Connecticut 2nd,Connecticut ,0902,D,2449 RHOB,(202) 225-2076,armed_services|education_and_the_workforce,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rosa DeLauro,Connecticut 3rd,Connecticut ,0903,D,2413 RHOB,(202) 225-3661,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jahana Hayes,Connecticut 5th,Connecticut ,0905,D,2458 RHOB,(202) 225-4476,agriculture|education_and_the_workforce,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+James Himes,Connecticut 4th,Connecticut ,0904,D,2137 RHOB,(202) 225-5541,financial_services|Intelligence,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+John Larson,Connecticut 1st,Connecticut ,0901,D,1501 LHOB,(202) 225-2265,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lisa Blunt Rochester,Delaware ,Delaware ,1000,D,1724 LHOB,(202) 225-4165,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aaron Bean,Florida 4th,Florida ,1204,R,1239 LHOB,(202) 225-0123,education_and_the_workforce|transportation_and_infrastructure|small_business,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gus Bilirakis,Florida 12th,Florida ,1212,R,2306 RHOB,(202) 225-5755,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vern Buchanan,Florida 16th,Florida ,1216,R,2110 RHOB,(202) 225-5015,joint_committee_on_taxation|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Kat Cammack,Florida 3rd,Florida ,1203,R,2421 RHOB,(202) 225-5744,agriculture|select_subcommittee_on_the_weaponization_of_the_fed_govt|energy_and_commerce,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Kathy Castor,Florida 14th,Florida ,1214,D,2052 RHOB,(202) 225-3376,energy_and_commerce|select_sub_us_china,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Sheila Cherfilus-McCormick,Florida 20th,Florida ,1220,D,242 CHOB,(202) 225-1313,foreign_affairs|veterans_affairs,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Mario Diaz-Balart,Florida 26th,Florida ,1226,R,374 CHOB,(202) 225-4211,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Byron Donalds,Florida 19th,Florida ,1219,R,1719 LHOB,(202) 225-2536,financial_services|oversight_and_accountability,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neal Dunn,Florida 2nd,Florida ,1202,R,466 CHOB,(202) 225-5235,energy_and_commerce|select_sub_us_china,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Lois Frankel,Florida 22nd,Florida ,1222,D,2305 RHOB,(202) 225-9890,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scott Franklin,Florida 18th,Florida ,1218,R,249 CHOB,(202) 225-1252,appropriations|science_space_and_technology|veterans_affairs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Maxwell Frost,Florida 10th,Florida ,1210,D,1224 LHOB,(202) 225-2176,oversight_and_accountability|science_space_and_technology,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Matt Gaetz,Florida 1st,Florida ,1201,R,2021 RHOB,(202) 225-4136,armed_services|select_subcommittee_on_the_weaponization_of_the_fed_govt|judiciary,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Carlos Gimenez,Florida 28th,Florida ,1228,R,448 CHOB,(202) 225-2778,armed_services|homeland_security|select_sub_us_china,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Laurel Lee,Florida 15th,Florida ,1215,R,1118 LHOB,(202) 225-5626,house_administration|homeland_security|judiciary,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Anna Paulina Luna,Florida 13th,Florida ,1213,R,1017 LHOB,(202) 225-5961,oversight_and_accountability|natural_resources,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brian Mast,Florida 21st,Florida ,1221,R,2182 RHOB,(202) 225-3026,foreign_affairs|transportation_and_infrastructure,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cory Mills,Florida 7th,Florida ,1207,R,1237 LHOB,(202) 225-4035,armed_services|foreign_affairs,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jared Moskowitz,Florida 23rd,Florida ,1223,D,1130 LHOB,(202) 225-3001,foreign_affairs|oversight_and_accountability,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bill Posey,Florida 8th,Florida ,1208,R,2150 RHOB,(202) 225-3671,financial_services|science_space_and_technology,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+John Rutherford,Florida 5th,Florida ,1205,R,1711 LHOB,(202) 225-2501,appropriations|ethics,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Maria Salazar,Florida 27th,Florida ,1227,R,2162 RHOB,(202) 225-3931,foreign_affairs|small_business,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Darren Soto,Florida 9th,Florida ,1209,D,2353 RHOB,(202) 225-9889,agriculture|energy_and_commerce,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+W. Steube,Florida 17th,Florida ,1217,R,2457 RHOB,(202) 225-5792,select_subcommittee_on_the_weaponization_of_the_fed_govt|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Michael Waltz,Florida 6th,Florida ,1206,R,244 CHOB,(202) 225-2706,armed_services|foreign_affairs|Intelligence,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Debbie Wasserman Schultz,Florida 25th,Florida ,1225,D,270 CHOB,(202) 225-7931,appropriations|select_subcommittee_on_the_weaponization_of_the_fed_govt,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Daniel Webster,Florida 11th,Florida ,1211,R,2184 RHOB,(202) 225-1002,natural_resources|transportation_and_infrastructure|science_space_and_technology,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Frederica Wilson,Florida 24th,Florida ,1224,D,2080 RHOB,(202) 225-4506,education_and_the_workforce|transportation_and_infrastructure,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rick Allen,Georgia 12th,Georgia ,1312,R,462 CHOB,(202) 225-2823,education_and_the_workforce|energy_and_commerce,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sanford Bishop,Georgia 2nd,Georgia ,1302,D,2407 RHOB,(202) 225-3631,agriculture|appropriations,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Earl Carter,Georgia 1st,Georgia ,1301,R,2432 RHOB,(202) 225-5831,budget|energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Andrew Clyde,Georgia 9th,Georgia ,1309,R,445 CHOB,(202) 225-9893,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mike Collins,Georgia 10th,Georgia ,1310,R,1223 LHOB,(202) 225-4101,natural_resources|transportation_and_infrastructure|science_space_and_technology,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+A. Ferguson,Georgia 3rd,Georgia ,1303,R,2239 RHOB,(202) 225-5901,budget|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Marjorie Greene,Georgia 14th,Georgia ,1314,R,403 CHOB,(202) 225-5211,oversight_and_accountability|homeland_security|select_subcommittee_on_the_coronavirus_pandemic,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Henry Johnson,Georgia 4th,Georgia ,1304,D,2240 RHOB,(202) 225-1605,judiciary|transportation_and_infrastructure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Barry Loudermilk,Georgia 11th,Georgia ,1311,R,2133 RHOB,(202) 225-2931,financial_services|house_administration,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Lucy McBath,Georgia 7th,Georgia ,1307,D,2246 RHOB,(202) 225-4501,education_and_the_workforce|judiciary,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Richard McCormick,Georgia 6th,Georgia ,1306,R,1213 LHOB,(202) 225-4272,armed_services|foreign_affairs|science_space_and_technology|select_subcommittee_on_the_coronavirus_pandemic,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Austin Scott,Georgia 8th,Georgia ,1308,R,2185 RHOB,(202) 225-6531,agriculture|armed_services|Intelligence,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+David Scott,Georgia 13th,Georgia ,1313,D,468 CHOB,(202) 225-2939,agriculture|financial_services,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nikema Williams,Georgia 5th,Georgia ,1305,D,1406 LHOB,(202) 225-3801,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ed Case,Hawaii 1st,Hawaii ,1501,D,2210 RHOB,(202) 225-2726,appropriations|natural_resources,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jill Tokuda,Hawaii 2nd,Hawaii ,1502,D,1005 LHOB,(202) 225-4906,agriculture|armed_services|select_subcommittee_on_the_coronavirus_pandemic,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Russ Fulcher,Idaho 1st,Idaho ,1601,R,1514 LHOB,(202) 225-6611,energy_and_commerce|natural_resources,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Simpson,Idaho 2nd,Idaho ,1602,R,2084 RHOB,(202) 225-5531,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mike Bost,Illinois 12th,Illinois ,1712,R,352 CHOB,(202) 225-5661,agriculture|transportation_and_infrastructure|veterans_affairs,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Nikki Budzinski,Illinois 13th,Illinois ,1713,D,1009 LHOB,(202) 225-2371,agriculture|veterans_affairs,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Sean Casten,Illinois 6th,Illinois ,1706,D,2440 RHOB,(202) 225-4561,financial_services|science_space_and_technology,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Danny Davis,Illinois 7th,Illinois ,1707,D,2159 RHOB,(202) 225-5006,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bill Foster,Illinois 11th,Illinois ,1711,D,2366 RHOB,(202) 225-3515,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jesus Garcia,Illinois 4th,Illinois ,1704,D,1519 LHOB,(202) 225-8203,transportation_and_infrastructure,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jonathan Jackson,Illinois 1st,Illinois ,1701,D,1641 LHOB,(202) 225-4372,agriculture|foreign_affairs,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Robin Kelly,Illinois 2nd,Illinois ,1702,D,2329 RHOB,(202) 225-0773,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Raja Krishnamoorthi,Illinois 8th,Illinois ,1708,D,2367 RHOB,(202) 225-3711,oversight_and_accountability|Intelligence|select_sub_us_china,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Darin LaHood,Illinois 16th,Illinois ,1716,R,1424 LHOB,(202) 225-6201,Intelligence|ways_and_means|select_sub_us_china,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Mary Miller,Illinois 15th,Illinois ,1715,R,1740 LHOB,(202) 225-5271,agriculture|education_and_the_workforce,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mike Quigley,Illinois 5th,Illinois ,1705,D,2083 RHOB,(202) 225-4061,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delia Ramirez,Illinois 3rd,Illinois ,1703,D,1523 LHOB,(202) 225-5701,homeland_security|veterans_affairs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Janice Schakowsky,Illinois 9th,Illinois ,1709,D,2408 RHOB,(202) 225-2111,budget|energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bradley Schneider,Illinois 10th,Illinois ,1710,D,300 CHOB,(202) 225-4835,foreign_affairs|ways_and_means,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eric Sorensen,Illinois 17th,Illinois ,1717,D,1205 LHOB,(202) 225-5905,agriculture|science_space_and_technology,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Lauren Underwood,Illinois 14th,Illinois ,1714,D,1410 LHOB,(202) 225-2976,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+James Baird,Indiana 4th,Indiana ,1804,R,2303 RHOB,(202) 225-5037,agriculture|foreign_affairs|science_space_and_technology,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Jim Banks,Indiana 3rd,Indiana ,1803,R,2418 RHOB,(202) 225-4436,armed_services|education_and_the_workforce|select_sub_us_china,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Larry Bucshon,Indiana 8th,Indiana ,1808,R,2313 RHOB,(202) 225-4636,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andre Carson,Indiana 7th,Indiana ,1807,D,2135 RHOB,(202) 225-4011,Intelligence|transportation_and_infrastructure|select_sub_us_china,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Erin Houchin,Indiana 9th,Indiana ,1809,R,1632 LHOB,(202) 225-5315,financial_services|education_and_the_workforce|Rules,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Frank Mrvan,Indiana 1st,Indiana ,1801,D,1607 LHOB,(202) 225-2461,education_and_the_workforce|veterans_affairs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Greg Pence,Indiana 6th,Indiana ,1806,R,404 CHOB,(202) 225-3021,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Victoria Spartz,Indiana 5th,Indiana ,1805,R,1609 LHOB,(202) 225-2276,judiciary,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Rudy Yakym,Indiana 2nd,Indiana ,1802,R,349 CHOB,(202) 225-3915,budget|transportation_and_infrastructure,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Randy Feenstra,Iowa 4th,Iowa ,1904,R,1440 LHOB,(202) 225-4426,agriculture|ways_and_means,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ashley Hinson,Iowa 2nd,Iowa ,1902,R,1717 LHOB,(202) 225-2911,appropriations|select_sub_us_china,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Mariannette Miller-Meeks,Iowa 1st,Iowa ,1901,R,1034 LHOB,(202) 225-6576,energy_and_commerce|select_subcommittee_on_the_coronavirus_pandemic|veterans_affairs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+Zachary Nunn,Iowa 3rd,Iowa ,1903,R,1232 LHOB,(202) 225-5476,agriculture|financial_services,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sharice Davids,Kansas 3rd,Kansas ,2003,D,2435 RHOB,(202) 225-2865,agriculture|transportation_and_infrastructure|small_business,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ron Estes,Kansas 4th,Kansas ,2004,R,2234 RHOB,(202) 225-6216,budget|education_and_the_workforce|ways_and_means,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Jake LaTurner,Kansas 2nd,Kansas ,2002,R,2441 RHOB,(202) 225-6601,appropriations|oversight_and_accountability,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tracey Mann,Kansas 1st,Kansas ,2001,R,344 CHOB,(202) 225-2715,agriculture|transportation_and_infrastructure|small_business,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andy Barr,Kentucky 6th,Kentucky ,2106,R,2430 RHOB,(202) 225-4706,financial_services|foreign_affairs|select_sub_us_china,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+James Comer,Kentucky 1st,Kentucky ,2101,R,2410 RHOB,(202) 225-3115,education_and_the_workforce|oversight_and_accountability,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brett Guthrie,Kentucky 2nd,Kentucky ,2102,R,2434 RHOB,(202) 225-3501,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thomas Massie,Kentucky 4th,Kentucky ,2104,R,2453 RHOB,(202) 225-3465,select_subcommittee_on_the_weaponization_of_the_fed_govt|judiciary|transportation_and_infrastructure|Rules,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Morgan McGarvey,Kentucky 3rd,Kentucky ,2103,D,1527 LHOB,(202) 225-5401,small_business|veterans_affairs,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Harold Rogers,Kentucky 5th,Kentucky ,2105,R,2406 RHOB,(202) 225-4601,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Troy Carter,Louisiana 2nd,Louisiana ,2202,D,442 CHOB,(202) 225-6636,homeland_security|transportation_and_infrastructure,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Garret Graves,Louisiana 6th,Louisiana ,2206,R,2402 RHOB,(202) 225-3901,natural_resources|transportation_and_infrastructure,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clay Higgins,Louisiana 3rd,Louisiana ,2203,R,572 CHOB,(202) 225-2031,oversight_and_accountability|homeland_security,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mike Johnson,Louisiana 4th,Louisiana ,2204,R,568 CHOB,(202) 225-2777,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Julia Letlow,Louisiana 5th,Louisiana ,2205,R,142 CHOB,(202) 225-8490,appropriations|education_and_the_workforce,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Steve Scalise,Louisiana 1st,Louisiana ,2201,R,2049 RHOB,(202) 225-3015,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jared Golden,Maine 2nd,Maine ,2302,D,1710 LHOB,(202) 225-6306,armed_services|small_business,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chellie Pingree,Maine 1st,Maine ,2301,D,2354 RHOB,(202) 225-6116,agriculture|appropriations,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andy Harris,Maryland 1st,Maryland ,2401,R,1536 LHOB,(202) 225-5311,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Steny Hoyer,Maryland 5th,Maryland ,2405,D,1705 LHOB,(202) 225-4131,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glenn Ivey,Maryland 4th,Maryland ,2404,D,1529 LHOB,(202) 225-8699,homeland_security|judiciary|ethics,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Kweisi Mfume,Maryland 7th,Maryland ,2407,D,2263 RHOB,(202) 225-4741,oversight_and_accountability|small_business|select_subcommittee_on_the_coronavirus_pandemic,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Jamie Raskin,Maryland 8th,Maryland ,2408,D,2242 RHOB,(202) 225-5341,oversight_and_accountability,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C. Ruppersberger,Maryland 2nd,Maryland ,2402,D,2206 RHOB,(202) 225-3061,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+John Sarbanes,Maryland 3rd,Maryland ,2403,D,2370 RHOB,(202) 225-4016,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+David Trone,Maryland 6th,Maryland ,2406,D,2404 RHOB,(202) 225-2721,appropriations|budget,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Jake Auchincloss,Massachusetts 4th,Massachusetts ,2504,D,1524 LHOB,(202) 225-5931,transportation_and_infrastructure|select_sub_us_china,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Katherine Clark,Massachusetts 5th,Massachusetts ,2505,D,2368 RHOB,(202) 225-2836,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+William Keating,Massachusetts 9th,Massachusetts ,2509,D,2351 RHOB,(202) 225-3111,armed_services|foreign_affairs,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stephen Lynch,Massachusetts 8th,Massachusetts ,2508,D,2109 RHOB,(202) 225-8273,financial_services|select_subcommittee_on_the_weaponization_of_the_fed_govt|oversight_and_accountability,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+James McGovern,Massachusetts 2nd,Massachusetts ,2502,D,370 CHOB,(202) 225-6101,agriculture|Rules,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Seth Moulton,Massachusetts 6th,Massachusetts ,2506,D,1126 LHOB,(202) 225-8020,armed_services|transportation_and_infrastructure|select_sub_us_china,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Richard Neal,Massachusetts 1st,Massachusetts ,2501,D,372 CHOB,(202) 225-5601,joint_committee_on_taxation|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Ayanna Pressley,Massachusetts 7th,Massachusetts ,2507,D,402 CHOB,(202) 225-5111,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lori Trahan,Massachusetts 3rd,Massachusetts ,2503,D,2439 RHOB,(202) 225-3411,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jack Bergman,Michigan 1st,Michigan ,2601,R,566 CHOB,(202) 225-4735,armed_services|budget|veterans_affairs,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Debbie Dingell,Michigan 6th,Michigan ,2606,D,102 CHOB,(202) 225-4071,energy_and_commerce|natural_resources|select_subcommittee_on_the_coronavirus_pandemic,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Bill Huizenga,Michigan 4th,Michigan ,2604,R,2232 RHOB,(202) 225-4401,financial_services|foreign_affairs,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+John James,Michigan 10th,Michigan ,2610,R,1319 LHOB,(202) 225-4961,education_and_the_workforce|foreign_affairs|transportation_and_infrastructure,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniel Kildee,Michigan 8th,Michigan ,2608,D,200 CHOB,(202) 225-3611,budget|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Lisa McClain,Michigan 9th,Michigan ,2609,R,444 CHOB,(202) 225-2106,armed_services|budget|education_and_the_workforce|oversight_and_accountability,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+John Moolenaar,Michigan 2nd,Michigan ,2602,R,246 CHOB,(202) 225-3561,appropriations|select_sub_us_china,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hillary Scholten,Michigan 3rd,Michigan ,2603,D,1317 LHOB,(202) 225-3831,transportation_and_infrastructure|small_business,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elissa Slotkin,Michigan 7th,Michigan ,2607,D,2245 RHOB,(202) 225-4872,agriculture|armed_services,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Haley Stevens,Michigan 11th,Michigan ,2611,D,2411 RHOB,(202) 225-8171,education_and_the_workforce|science_space_and_technology|select_sub_us_china,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+Shri Thanedar,Michigan 13th,Michigan ,2613,D,1039 LHOB,(202) 225-5802,homeland_security|small_business,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rashida Tlaib,Michigan 12th,Michigan ,2612,D,2438 RHOB,(202) 225-5126,financial_services|oversight_and_accountability,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tim Walberg,Michigan 5th,Michigan ,2605,R,2266 RHOB,(202) 225-6276,education_and_the_workforce|energy_and_commerce,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Angie Craig,Minnesota 2nd,Minnesota ,2702,D,2442 RHOB,(202) 225-2271,agriculture|energy_and_commerce,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tom Emmer,Minnesota 6th,Minnesota ,2706,R,464 CHOB,(202) 225-2331,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brad Finstad,Minnesota 1st,Minnesota ,2701,R,1605 LHOB,(202) 225-2472,agriculture|armed_services,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michelle Fischbach,Minnesota 7th,Minnesota ,2707,R,1004 LHOB,(202) 225-2165,budget|Rules|ethics|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Betty McCollum,Minnesota 4th,Minnesota ,2704,D,2426 RHOB,(202) 225-6631,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ilhan Omar,Minnesota 5th,Minnesota ,2705,D,1730 LHOB,(202) 225-4755,budget|education_and_the_workforce,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Dean Phillips,Minnesota 3rd,Minnesota ,2703,D,2452 RHOB,(202) 225-2871,foreign_affairs|small_business,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pete Stauber,Minnesota 8th,Minnesota ,2708,R,145 CHOB,(202) 225-6211,natural_resources|transportation_and_infrastructure|small_business,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mike Ezell,Mississippi 4th,Mississippi ,2804,R,443 CHOB,(202) 225-5772,homeland_security|transportation_and_infrastructure,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Guest,Mississippi 3rd,Mississippi ,2803,R,450 CHOB,(202) 225-5031,appropriations|homeland_security|ethics,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Trent Kelly,Mississippi 1st,Mississippi ,2801,R,2243 RHOB,(202) 225-4306,agriculture|armed_services|Intelligence,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Bennie Thompson,Mississippi 2nd,Mississippi ,2802,D,2466 RHOB,(202) 225-5876,homeland_security,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mark Alford,Missouri 4th,Missouri ,2904,R,1516 LHOB,(202) 225-2876,agriculture|armed_services|small_business,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eric Burlison,Missouri 7th,Missouri ,2907,R,1108 LHOB,(202) 225-6536,education_and_the_workforce|oversight_and_accountability|transportation_and_infrastructure,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cori Bush,Missouri 1st,Missouri ,2901,D,2463 RHOB,(202) 225-2406,oversight_and_accountability|judiciary,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Emanuel Cleaver,Missouri 5th,Missouri ,2905,D,2217 RHOB,(202) 225-4535,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sam Graves,Missouri 6th,Missouri ,2906,R,1135 LHOB,(202) 225-7041,armed_services|transportation_and_infrastructure,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blaine Luetkemeyer,Missouri 3rd,Missouri ,2903,R,2230 RHOB,(202) 225-2956,financial_services|small_business|select_sub_us_china,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Jason Smith,Missouri 8th,Missouri ,2908,R,1011 LHOB,(202) 225-4404,joint_committee_on_taxation|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Ann Wagner,Missouri 2nd,Missouri ,2902,R,2350 RHOB,(202) 225-1621,financial_services|foreign_affairs,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matthew Rosendale,Montana 2nd,Montana ,3002,R,1023 LHOB,(202) 225-3211,natural_resources|veterans_affairs,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Ryan Zinke,Montana 1st,Montana ,3001,R,512 CHOB,(202) 225-5628,appropriations|science_space_and_technology,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Don Bacon,Nebraska 2nd,Nebraska ,3102,R,2104 RHOB,(202) 225-4155,agriculture|armed_services,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mike Flood,Nebraska 1st,Nebraska ,3101,R,343 CHOB,(202) 225-4806,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adrian Smith,Nebraska 3rd,Nebraska ,3103,R,502 CHOB,(202) 225-6435,joint_committee_on_taxation|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Mark Amodei,Nevada 2nd,Nevada ,3202,R,104 CHOB,(202) 225-6155,appropriations|joint_library,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Steven Horsford,Nevada 4th,Nevada ,3204,D,406 CHOB,(202) 225-9894,armed_services|financial_services,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Susie Lee,Nevada 3rd,Nevada ,3203,D,365 CHOB,(202) 225-3252,appropriations|natural_resources,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dina Titus,Nevada 1st,Nevada ,3201,D,2464 RHOB,(202) 225-5965,foreign_affairs|homeland_security|transportation_and_infrastructure,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ann Kuster,New Hampshire 2nd,New Hampshire ,3302,D,2201 RHOB,(202) 225-5206,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chris Pappas,New Hampshire 1st,New Hampshire ,3301,D,452 CHOB,(202) 225-5456,transportation_and_infrastructure|small_business|veterans_affairs,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Josh Gottheimer,New Jersey 5th,New Jersey ,3405,D,203 CHOB,(202) 225-4465,financial_services|Intelligence,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Thomas Kean,New Jersey 7th,New Jersey ,3407,R,251 CHOB,(202) 225-5361,foreign_affairs|transportation_and_infrastructure|science_space_and_technology,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Andy Kim,New Jersey 3rd,New Jersey ,3403,D,2444 RHOB,(202) 225-4765,armed_services|foreign_affairs|select_sub_us_china,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Robert Menendez,New Jersey 8th,New Jersey ,3408,D,1007 LHOB,(202) 225-7919,homeland_security|transportation_and_infrastructure,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Donald Norcross,New Jersey 1st,New Jersey ,3401,D,2427 RHOB,(202) 225-6501,armed_services|education_and_the_workforce,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frank Pallone,New Jersey 6th,New Jersey ,3406,D,2107 RHOB,(202) 225-4671,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bill Pascrell,New Jersey 9th,New Jersey ,3409,D,2409 RHOB,(202) 225-5751,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Donald Payne,New Jersey 10th,New Jersey ,3410,D,106 CHOB,(202) 225-3436,homeland_security|transportation_and_infrastructure,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mikie Sherrill,New Jersey 11th,New Jersey ,3411,D,1427 LHOB,(202) 225-5034,armed_services|select_sub_us_china,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Christopher Smith,New Jersey 4th,New Jersey ,3404,R,2373 RHOB,(202) 225-3765,foreign_affairs,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jefferson Van Drew,New Jersey 2nd,New Jersey ,3402,R,2447 RHOB,(202) 225-6572,judiciary|transportation_and_infrastructure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Bonnie Watson Coleman,New Jersey 12th,New Jersey ,3412,D,168 CHOB,(202) 225-5801,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teresa Leger Fernandez,New Mexico 3rd,New Mexico ,3503,D,1510 LHOB,(202) 225-6190,education_and_the_workforce|natural_resources|Rules,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Melanie Stansbury,New Mexico 1st,New Mexico ,3501,D,1421 LHOB,(202) 225-6316,oversight_and_accountability|natural_resources,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gabe Vasquez,New Mexico 2nd,New Mexico ,3502,D,1517 LHOB,(202) 225-2365,agriculture|armed_services,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jamaal Bowman,New York 16th,New York ,3616,D,345 CHOB,(202) 225-2464,education_and_the_workforce|science_space_and_technology,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Yvette Clarke,New York 9th,New York ,3609,D,2058 RHOB,(202) 225-6231,homeland_security|energy_and_commerce,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anthony D'Esposito,New York 4th,New York ,3604,R,1508 LHOB,(202) 225-5516,house_administration|homeland_security|transportation_and_infrastructure,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Adriano Espaillat,New York 13th,New York ,3613,D,2332 RHOB,(202) 225-4365,appropriations|budget,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Andrew Garbarino,New York 2nd,New York ,3602,R,2344 RHOB,(202) 225-7896,financial_services|homeland_security|ethics,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Daniel Goldman,New York 10th,New York ,3610,D,245 CHOB,(202) 225-7944,select_subcommittee_on_the_weaponization_of_the_fed_govt|oversight_and_accountability|homeland_security,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Brian Higgins,New York 26th,New York ,3626,D,2269 RHOB,(202) 225-3306,budget|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Hakeem Jeffries,New York 8th,New York ,3608,D,2433 RHOB,(202) 225-5936,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nick LaLota,New York 1st,New York ,3601,R,1530 LHOB,(202) 225-3826,armed_services|homeland_security|small_business,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nicholas Langworthy,New York 23rd,New York ,3623,R,1630 LHOB,(202) 225-3161,agriculture|oversight_and_accountability|Rules,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Michael Lawler,New York 17th,New York ,3617,R,1013 LHOB,(202) 225-6506,financial_services|foreign_affairs,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nicole Malliotakis,New York 11th,New York ,3611,R,351 CHOB,(202) 225-3371,select_subcommittee_on_the_coronavirus_pandemic|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Gregory Meeks,New York 5th,New York ,3605,D,2310 RHOB,(202) 225-3461,financial_services|foreign_affairs,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grace Meng,New York 6th,New York ,3606,D,2209 RHOB,(202) 225-2601,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcus Molinaro,New York 19th,New York ,3619,R,1207 LHOB,(202) 225-5441,agriculture|transportation_and_infrastructure|small_business,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joseph Morelle,New York 25th,New York ,3625,D,570 CHOB,(202) 225-3615,appropriations|house_administration|joint_library,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Jerrold Nadler,New York 12th,New York ,3612,D,2132 RHOB,(202) 225-5635,judiciary,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Alexandria Ocasio-Cortez,New York 14th,New York ,3614,D,250 CHOB,(202) 225-3965,oversight_and_accountability|natural_resources,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Patrick Ryan,New York 18th,New York ,3618,D,1030 LHOB,(202) 225-5614,armed_services|transportation_and_infrastructure,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+George Santos,New York 3rd,New York ,3603,R,1117 LHOB,(202) 225-3335,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elise Stefanik,New York 21st,New York ,3621,R,2211 RHOB,(202) 225-4611,armed_services|education_and_the_workforce|select_subcommittee_on_the_weaponization_of_the_fed_govt|Intelligence,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Claudia Tenney,New York 24th,New York ,3624,R,2349 RHOB,(202) 225-3665,science_space_and_technology|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Paul Tonko,New York 20th,New York ,3620,D,2369 RHOB,(202) 225-5076,energy_and_commerce|science_space_and_technology,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Ritchie Torres,New York 15th,New York ,3615,D,1414 LHOB,(202) 225-4361,financial_services|select_sub_us_china,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Nydia Velazquez,New York 7th,New York ,3607,D,2302 RHOB,(202) 225-2361,financial_services|natural_resources|small_business,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brandon Williams,New York 22nd,New York ,3622,R,1022 LHOB,(202) 225-3701,education_and_the_workforce|transportation_and_infrastructure|science_space_and_technology,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Alma Adams,North Carolina 12th,North Carolina ,3712,D,2436 RHOB,(202) 225-1510,agriculture|education_and_the_workforce,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dan Bishop,North Carolina 8th,North Carolina ,3708,R,2459 RHOB,(202) 225-1976,select_subcommittee_on_the_weaponization_of_the_fed_govt|homeland_security|judiciary,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Donald Davis,North Carolina 1st,North Carolina ,3701,D,1123 LHOB,(202) 225-3101,agriculture|armed_services,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chuck Edwards,North Carolina 11th,North Carolina ,3711,R,1505 LHOB,(202) 225-6401,budget|oversight_and_accountability|transportation_and_infrastructure,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Valerie Foushee,North Carolina 4th,North Carolina ,3704,D,1716 LHOB,(202) 225-1784,transportation_and_infrastructure|science_space_and_technology,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Virginia Foxx,North Carolina 5th,North Carolina ,3705,R,2462 RHOB,(202) 225-2071,education_and_the_workforce|oversight_and_accountability,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Richard Hudson,North Carolina 9th,North Carolina ,3709,R,2112 RHOB,(202) 225-3715,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jeff Jackson,North Carolina 14th,North Carolina ,3714,D,1318 LHOB,(202) 225-5634,armed_services|science_space_and_technology,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Kathy Manning,North Carolina 6th,North Carolina ,3706,D,307 CHOB,(202) 225-3065,education_and_the_workforce|foreign_affairs,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Patrick McHenry,North Carolina 10th,North Carolina ,3710,R,2134 RHOB,(202) 225-2576,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gregory Murphy,North Carolina 3rd,North Carolina ,3703,R,407 CHOB,(202) 225-3415,house_administration|veterans_affairs|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Wiley Nickel,North Carolina 13th,North Carolina ,3713,D,1133 LHOB,(202) 225-4531,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deborah Ross,North Carolina 2nd,North Carolina ,3702,D,1221 LHOB,(202) 225-3032,judiciary|ethics|science_space_and_technology|select_subcommittee_on_the_coronavirus_pandemic,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0
+David Rouzer,North Carolina 7th,North Carolina ,3707,R,2333 RHOB,(202) 225-2731,agriculture|transportation_and_infrastructure,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kelly Armstrong,North Dakota ,North Dakota ,3800,R,2235 RHOB,(202) 225-2611,select_subcommittee_on_the_weaponization_of_the_fed_govt|oversight_and_accountability|energy_and_commerce,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Troy Balderson,Ohio 12th,Ohio ,3912,R,2429 RHOB,(202) 225-5355,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joyce Beatty,Ohio 3rd,Ohio ,3903,D,2079 RHOB,(202) 225-4324,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shontel Brown,Ohio 11th,Ohio ,3911,D,449 CHOB,(202) 225-7032,agriculture|oversight_and_accountability|select_sub_us_china,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Mike Carey,Ohio 15th,Ohio ,3915,R,1433 LHOB,(202) 225-2015,house_administration|joint_library|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Warren Davidson,Ohio 8th,Ohio ,3908,R,2113 RHOB,(202) 225-6205,financial_services|foreign_affairs,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bill Johnson,Ohio 6th,Ohio ,3906,R,2082 RHOB,(202) 225-5705,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jim Jordan,Ohio 4th,Ohio ,3904,R,2056 RHOB,(202) 225-2676,select_subcommittee_on_the_weaponization_of_the_fed_govt|oversight_and_accountability|judiciary,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+David Joyce,Ohio 14th,Ohio ,3914,R,2065 RHOB,(202) 225-5731,appropriations|ethics,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Marcy Kaptur,Ohio 9th,Ohio ,3909,D,2186 RHOB,(202) 225-4146,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Greg Landsman,Ohio 1st,Ohio ,3901,D,1432 LHOB,(202) 225-2216,small_business|veterans_affairs,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Robert Latta,Ohio 5th,Ohio ,3905,R,2467 RHOB,(202) 225-6405,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Max Miller,Ohio 7th,Ohio ,3907,R,143 CHOB,(202) 225-3876,agriculture|science_space_and_technology,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Emilia Sykes,Ohio 13th,Ohio ,3913,D,1217 LHOB,(202) 225-6265,transportation_and_infrastructure|science_space_and_technology,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Michael Turner,Ohio 10th,Ohio ,3910,R,2183 RHOB,(202) 225-6465,armed_services|oversight_and_accountability|Intelligence,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Brad Wenstrup,Ohio 2nd,Ohio ,3902,R,2335 RHOB,(202) 225-3164,Intelligence|select_subcommittee_on_the_coronavirus_pandemic|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Stephanie Bice,Oklahoma 5th,Oklahoma ,4005,R,2437 RHOB,(202) 225-2132,appropriations|budget|house_administration|science_space_and_technology,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+Josh Brecheen,Oklahoma 2nd,Oklahoma ,4002,R,1208 LHOB,(202) 225-2701,budget|homeland_security,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Tom Cole,Oklahoma 4th,Oklahoma ,4004,R,2207 RHOB,(202) 225-6165,appropriations|Rules,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Kevin Hern,Oklahoma 1st,Oklahoma ,4001,R,1019 LHOB,(202) 225-2211,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frank Lucas,Oklahoma 3rd,Oklahoma ,4003,R,2405 RHOB,(202) 225-5565,agriculture|financial_services|science_space_and_technology,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Cliff Bentz,Oregon 2nd,Oregon ,4102,R,409 CHOB,(202) 225-6730,natural_resources|judiciary,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Earl Blumenauer,Oregon 3rd,Oregon ,4103,D,1111 LHOB,(202) 225-4811,budget|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Suzanne Bonamici,Oregon 1st,Oregon ,4101,D,2231 RHOB,(202) 225-0855,education_and_the_workforce|science_space_and_technology,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Lori Chavez-DeRemer,Oregon 5th,Oregon ,4105,R,1722 LHOB,(202) 225-5711,agriculture|education_and_the_workforce|transportation_and_infrastructure,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Val Hoyle,Oregon 4th,Oregon ,4104,D,1620 LHOB,(202) 225-6416,natural_resources|transportation_and_infrastructure,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andrea Salinas,Oregon 6th,Oregon ,4106,D,109 CHOB,(202) 225-5643,agriculture|science_space_and_technology,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Brendan Boyle,Pennsylvania 2nd,Pennsylvania ,4202,D,1502 LHOB,(202) 225-6111,budget,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Matt Cartwright,Pennsylvania 8th,Pennsylvania ,4208,D,2102 RHOB,(202) 225-5546,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madeleine Dean,Pennsylvania 4th,Pennsylvania ,4204,D,150 CHOB,(202) 225-4731,foreign_affairs|judiciary,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Christopher Deluzio,Pennsylvania 17th,Pennsylvania ,4217,D,1222 LHOB,(202) 225-2301,armed_services|veterans_affairs,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Dwight Evans,Pennsylvania 3rd,Pennsylvania ,4203,D,1105 LHOB,(202) 225-4001,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brian Fitzpatrick,Pennsylvania 1st,Pennsylvania ,4201,R,271 CHOB,(202) 225-4276,Intelligence|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Chrissy Houlahan,Pennsylvania 6th,Pennsylvania ,4206,D,1727 LHOB,(202) 225-4315,armed_services|Intelligence,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+John Joyce,Pennsylvania 13th,Pennsylvania ,4213,R,152 CHOB,(202) 225-2431,energy_and_commerce|select_subcommittee_on_the_coronavirus_pandemic,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mike Kelly,Pennsylvania 16th,Pennsylvania ,4216,R,1707 LHOB,(202) 225-5406,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Summer Lee,Pennsylvania 12th,Pennsylvania ,4212,D,243 CHOB,(202) 225-2135,oversight_and_accountability|science_space_and_technology,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Daniel Meuser,Pennsylvania 9th,Pennsylvania ,4209,R,350 CHOB,(202) 225-6511,financial_services|small_business,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scott Perry,Pennsylvania 10th,Pennsylvania ,4210,R,2160 RHOB,(202) 225-5836,foreign_affairs|oversight_and_accountability|transportation_and_infrastructure,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guy Reschenthaler,Pennsylvania 14th,Pennsylvania ,4214,R,342 CHOB,(202) 225-2065,appropriations|Rules,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Mary Scanlon,Pennsylvania 5th,Pennsylvania ,4205,D,1227 LHOB,(202) 225-2011,judiciary|Rules,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Lloyd Smucker,Pennsylvania 11th,Pennsylvania ,4211,R,302 CHOB,(202) 225-2411,budget|education_and_the_workforce|ways_and_means,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Glenn Thompson,Pennsylvania 15th,Pennsylvania ,4215,R,400 CHOB,(202) 225-5121,agriculture|education_and_the_workforce,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Susan Wild,Pennsylvania 7th,Pennsylvania ,4207,D,1027 LHOB,(202) 225-6411,education_and_the_workforce|foreign_affairs|ethics,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Gabe Amo,Rhode Island 1st,Rhode Island ,4401,D,2233 RHOB,(202) 225-4911,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seth Magaziner,Rhode Island 2nd,Rhode Island ,4402,D,1218 LHOB,(202) 225-2735,homeland_security|natural_resources,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+James Clyburn,South Carolina 6th,South Carolina ,4506,D,274 CHOB,(202) 225-3315,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jeff Duncan,South Carolina 3rd,South Carolina ,4503,R,2229 RHOB,(202) 225-5301,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Russell Fry,South Carolina 7th,South Carolina ,4507,R,1626 LHOB,(202) 225-9895,oversight_and_accountability|judiciary,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Nancy Mace,South Carolina 1st,South Carolina ,4501,R,1728 LHOB,(202) 225-3176,armed_services|oversight_and_accountability|veterans_affairs,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Ralph Norman,South Carolina 5th,South Carolina ,4505,R,569 CHOB,(202) 225-5501,financial_services|budget|Rules,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+William Timmons,South Carolina 4th,South Carolina ,4504,R,267 CHOB,(202) 225-6030,financial_services|oversight_and_accountability,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joe Wilson,South Carolina 2nd,South Carolina ,4502,R,1436 LHOB,(202) 225-2452,armed_services|education_and_the_workforce|foreign_affairs,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dusty Johnson,South Dakota ,South Dakota ,4600,R,1714 LHOB,(202) 225-2801,agriculture|transportation_and_infrastructure|select_sub_us_china,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Tim Burchett,Tennessee 2nd,Tennessee ,4702,R,1122 LHOB,(202) 225-5435,foreign_affairs|oversight_and_accountability|transportation_and_infrastructure,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Steve Cohen,Tennessee 9th,Tennessee ,4709,D,2268 RHOB,(202) 225-3265,judiciary|transportation_and_infrastructure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Scott DesJarlais,Tennessee 4th,Tennessee ,4704,R,2304 RHOB,(202) 225-6831,agriculture|armed_services,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Charles Fleischmann,Tennessee 3rd,Tennessee ,4703,R,2187 RHOB,(202) 225-3271,appropriations|science_space_and_technology,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Mark Green,Tennessee 7th,Tennessee ,4707,R,2446 RHOB,(202) 225-2811,foreign_affairs|homeland_security,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Diana Harshbarger,Tennessee 1st,Tennessee ,4701,R,167 CHOB,(202) 225-6356,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+David Kustoff,Tennessee 8th,Tennessee ,4708,R,560 CHOB,(202) 225-4714,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andrew Ogles,Tennessee 5th,Tennessee ,4705,R,151 CHOB,(202) 225-4311,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+John Rose,Tennessee 6th,Tennessee ,4706,R,2238 RHOB,(202) 225-4231,agriculture|financial_services,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colin Allred,Texas 32nd,Texas ,4832,D,348 CHOB,(202) 225-2231,foreign_affairs|select_subcommittee_on_the_weaponization_of_the_fed_govt|transportation_and_infrastructure,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Jodey Arrington,Texas 19th,Texas ,4819,R,1107 LHOB,(202) 225-4005,budget|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Brian Babin,Texas 36th,Texas ,4836,R,2236 RHOB,(202) 225-1555,transportation_and_infrastructure|science_space_and_technology,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Michael Burgess,Texas 26th,Texas ,4826,R,2161 RHOB,(202) 225-7772,budget|energy_and_commerce|Rules,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+John Carter,Texas 31st,Texas ,4831,R,2208 RHOB,(202) 225-3864,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Greg Casar,Texas 35th,Texas ,4835,D,1339 LHOB,(202) 225-5645,agriculture|oversight_and_accountability,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joaquin Castro,Texas 20th,Texas ,4820,D,2241 RHOB,(202) 225-3236,foreign_affairs|Intelligence,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Michael Cloud,Texas 27th,Texas ,4827,R,171 CHOB,(202) 225-7742,appropriations|select_subcommittee_on_the_coronavirus_pandemic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Dan Crenshaw,Texas 2nd,Texas ,4802,R,248 CHOB,(202) 225-6565,energy_and_commerce|Intelligence,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Jasmine Crockett,Texas 30th,Texas ,4830,D,1616 LHOB,(202) 225-8885,agriculture|oversight_and_accountability,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Henry Cuellar,Texas 28th,Texas ,4828,D,2372 RHOB,(202) 225-1640,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Monica De La Cruz,Texas 15th,Texas ,4815,R,1415 LHOB,(202) 225-9901,agriculture|financial_services,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lloyd Doggett,Texas 37th,Texas ,4837,D,2307 RHOB,(202) 225-4865,budget|joint_committee_on_taxation|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Jake Ellzey,Texas 6th,Texas ,4806,R,1721 LHOB,(202) 225-2002,appropriations|small_business,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Veronica Escobar,Texas 16th,Texas ,4816,D,2448 RHOB,(202) 225-4831,armed_services|judiciary|ethics,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Pat Fallon,Texas 4th,Texas ,4804,R,2416 RHOB,(202) 225-6673,armed_services|oversight_and_accountability,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lizzie Fletcher,Texas 7th,Texas ,4807,D,346 CHOB,(202) 225-2571,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sylvia Garcia,Texas 29th,Texas ,4829,D,2419 RHOB,(202) 225-1688,financial_services|select_subcommittee_on_the_weaponization_of_the_fed_govt,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Tony Gonzales,Texas 23rd,Texas ,4823,R,2244 RHOB,(202) 225-4511,appropriations|homeland_security,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vicente Gonzalez,Texas 34th,Texas ,4834,D,154 CHOB,(202) 225-2531,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lance Gooden,Texas 5th,Texas ,4805,R,2431 RHOB,(202) 225-3484,judiciary|transportation_and_infrastructure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Kay Granger,Texas 12th,Texas ,4812,R,2308 RHOB,(202) 225-5071,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Al Green,Texas 9th,Texas ,4809,D,2347 RHOB,(202) 225-7508,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wesley Hunt,Texas 38th,Texas ,4838,R,1520 LHOB,(202) 225-5646,natural_resources|judiciary|small_business,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ronny Jackson,Texas 13th,Texas ,4813,R,446 CHOB,(202) 225-3706,agriculture|armed_services|foreign_affairs|select_subcommittee_on_the_coronavirus_pandemic,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Sheila Jackson Lee,Texas 18th,Texas ,4818,D,2314 RHOB,(202) 225-3816,budget|homeland_security|judiciary,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Morgan Luttrell,Texas 8th,Texas ,4808,R,1320 LHOB,(202) 225-4901,armed_services|homeland_security|veterans_affairs,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Michael McCaul,Texas 10th,Texas ,4810,R,2300 RHOB,(202) 225-2401,foreign_affairs|homeland_security,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nathaniel Moran,Texas 1st,Texas ,4801,R,1541 LHOB,(202) 225-3035,education_and_the_workforce|foreign_affairs|judiciary,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Troy Nehls,Texas 22nd,Texas ,4822,R,1104 LHOB,(202) 225-5951,judiciary|transportation_and_infrastructure,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+August Pfluger,Texas 11th,Texas ,4811,R,1124 LHOB,(202) 225-3605,homeland_security|energy_and_commerce,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chip Roy,Texas 21st,Texas ,4821,R,103 CHOB,(202) 225-4236,budget|judiciary|Rules,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+Keith Self,Texas 3rd,Texas ,4803,R,1113 LHOB,(202) 225-4201,foreign_affairs|veterans_affairs,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Pete Sessions,Texas 17th,Texas ,4817,R,2204 RHOB,(202) 225-6105,financial_services|oversight_and_accountability,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beth Van Duyne,Texas 24th,Texas ,4824,R,1725 LHOB,(202) 225-6605,small_business|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marc Veasey,Texas 33rd,Texas ,4833,D,2348 RHOB,(202) 225-9897,armed_services|energy_and_commerce,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Randy Weber,Texas 14th,Texas ,4814,R,107 CHOB,(202) 225-2831,energy_and_commerce|science_space_and_technology,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Roger Williams,Texas 25th,Texas ,4825,R,2336 RHOB,(202) 225-9896,financial_services|small_business,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+John Curtis,Utah 3rd,Utah ,4903,R,2323 RHOB,(202) 225-7751,energy_and_commerce|natural_resources,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blake Moore,Utah 1st,Utah ,4901,R,1131 LHOB,(202) 225-0453,budget|ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Burgess Owens,Utah 4th,Utah ,4904,R,309 CHOB,(202) 225-3011,education_and_the_workforce|transportation_and_infrastructure,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chris- Vacancy Stewart,Utah 2nd,Utah ,4902,,166 CHOB,(202) 225-9730,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Becca Balint,Vermont ,Vermont ,5000,D,1408 LHOB,(202) 225-4115,budget|judiciary,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Donald Beyer,Virginia 8th,Virginia ,5108,D,1119 LHOB,(202) 225-4376,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ben Cline,Virginia 6th,Virginia ,5106,R,2443 RHOB,(202) 225-5431,appropriations|budget|judiciary,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Gerald Connolly,Virginia 11th,Virginia ,5111,D,2265 RHOB,(202) 225-1492,foreign_affairs|select_subcommittee_on_the_weaponization_of_the_fed_govt|oversight_and_accountability,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Bob Good,Virginia 5th,Virginia ,5105,R,461 CHOB,(202) 225-4711,budget|education_and_the_workforce,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+H. Griffith,Virginia 9th,Virginia ,5109,R,2202 RHOB,(202) 225-3861,house_administration|energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Jennifer Kiggans,Virginia 2nd,Virginia ,5102,R,1037 LHOB,(202) 225-4215,armed_services|natural_resources|veterans_affairs,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Jennifer McClellan,Virginia 4th,Virginia ,5104,D,2417 RHOB,(202) 225-6365,armed_services|science_space_and_technology,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Robert Scott,Virginia 3rd,Virginia ,5103,D,2328 RHOB,(202) 225-8351,budget|education_and_the_workforce,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Abigail Spanberger,Virginia 7th,Virginia ,5107,D,562 CHOB,(202) 225-2815,agriculture|Intelligence,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Jennifer Wexton,Virginia 10th,Virginia ,5110,D,1210 LHOB,(202) 225-5136,appropriations|budget,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Robert Wittman,Virginia 1st,Virginia ,5101,R,2055 RHOB,(202) 225-4261,armed_services|natural_resources|select_sub_us_china,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Suzan DelBene,Washington 1st,Washington ,5301,D,2330 RHOB,(202) 225-6311,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pramila Jayapal,Washington 7th,Washington ,5307,D,2346 RHOB,(202) 225-3106,education_and_the_workforce|judiciary,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Derek Kilmer,Washington 6th,Washington ,5306,D,1226 LHOB,(202) 225-5916,appropriations|house_administration,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Rick Larsen,Washington 2nd,Washington ,5302,D,2163 RHOB,(202) 225-2605,transportation_and_infrastructure,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dan Newhouse,Washington 4th,Washington ,5304,R,504 CHOB,(202) 225-5816,appropriations|select_sub_us_china,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Marie Perez,Washington 3rd,Washington ,5303,D,1431 LHOB,(202) 225-3536,agriculture|small_business,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cathy Rodgers,Washington 5th,Washington ,5305,R,2188 RHOB,(202) 225-2006,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kim Schrier,Washington 8th,Washington ,5308,D,1110 LHOB,(202) 225-7761,energy_and_commerce,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adam Smith,Washington 9th,Washington ,5309,D,2264 RHOB,(202) 225-8901,armed_services,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marilyn Strickland,Washington 10th,Washington ,5310,D,1708 LHOB,(202) 225-9740,armed_services|transportation_and_infrastructure,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carol Miller,West Virginia 1st,West Virginia ,5401,R,465 CHOB,(202) 225-3452,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alexander Mooney,West Virginia 2nd,West Virginia ,5402,R,2228 RHOB,(202) 225-2711,financial_services,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scott Fitzgerald,Wisconsin 5th,Wisconsin ,5505,R,1507 LHOB,(202) 225-5101,financial_services|judiciary,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Mike Gallagher,Wisconsin 8th,Wisconsin ,5508,R,1211 LHOB,(202) 225-5665,armed_services|Intelligence|select_sub_us_china,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Glenn Grothman,Wisconsin 6th,Wisconsin ,5506,R,1511 LHOB,(202) 225-2476,budget|education_and_the_workforce|oversight_and_accountability,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Gwen Moore,Wisconsin 4th,Wisconsin ,5504,D,2252 RHOB,(202) 225-4572,ways_and_means,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mark Pocan,Wisconsin 2nd,Wisconsin ,5502,D,1026 LHOB,(202) 225-2906,appropriations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bryan Steil,Wisconsin 1st,Wisconsin ,5501,R,1526 LHOB,(202) 225-3031,financial_services|house_administration|joint_library,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Thomas Tiffany,Wisconsin 7th,Wisconsin ,5507,R,451 CHOB,(202) 225-3365,natural_resources|judiciary,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Derrick Van Orden,Wisconsin 3rd,Wisconsin ,5503,R,1513 LHOB,(202) 225-5506,agriculture|transportation_and_infrastructure|veterans_affairs,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Harriet Hageman,Wyoming ,Wyoming ,5600,R,1531 LHOB,(202) 225-2311,select_subcommittee_on_the_weaponization_of_the_fed_govt|natural_resources|judiciary,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Aumua Amata Radewagen,American Samoa,american samoa,6098,R,2001 RHOB,(202) 225-8577,foreign affairs|natural_resources|veterans_affairs,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+James Moylan,Guam,Guam,6698,R,1628 LHOB,(202) 225-1188,armed_services|natural_resources,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jenniffer Gonzalez-Colon,Puerto Rico,Puerto rico,7298,R,2338 RHOB,(202) 225-2615,natural_resources|transportation_and_infrastructure,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stacey Plaskett,Virgin Islands,Virgin Islands,7898,D,2059 RHOB,(202) 225-1790,select_subcommittee_on_the_weaponization_of_the_fed_govt|intelligence,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Gregorio Sablan,Northern Mariana Islands,Northern Mariana Islands,6998,D,2267 RHOB,(202) 225-2646,education_and_the_workforce|natural_resources,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eleanor Norton,District of Columbia,District of Columbia,1198,D,2136 RHOB,(202) 225-8050,oversight_and_accountability|transportation_and_infrastructure,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
