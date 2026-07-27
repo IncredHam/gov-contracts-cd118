@@ -6,6 +6,7 @@ import geopandas as gpd
 import pandas as pd
 from shapely.geometry import shape
 from pathlib import Path
+from shapely.validation import make_valid
 
 # ArcGIS Feature Service endpoint
 url = "https://services.arcgis.com/xOi1kZaI0eWDREZv/arcgis/rest/services/NTAD_Congressional_Districts/FeatureServer/0/query"
@@ -48,7 +49,7 @@ districts = gpd.GeoDataFrame(
 )
 
 # Fix invalid geometries
-districts["geometry"] = districts.buffer(0)
+districts["geometry"] = districts["geometry"].apply(make_valid)
 
 print("Invalid geometries remaining:")
 print((~districts.geometry.is_valid).sum())
