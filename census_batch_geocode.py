@@ -45,7 +45,7 @@ BENCHMARK = "Public_AR_Current"
 CENSUS_URL = "https://geocoding.geo.census.gov/geocoder/locations/addressbatch"
 BATCH_DIR = "geocode_batches"
 RESULT_DIR = "geocode_results"
-OUTPUT_CSV = "geocoded_addresses.csv"
+OUTPUT_CSV = "geocoded_addresses_from_script.csv"
 POLITE_DELAY_SEC = 5                   # pause between submissions
 MAX_RETRIES = 3
 TIMEOUT_SEC = 900                      # 15 min per batch
@@ -55,7 +55,6 @@ RESULT_COLS = [
     "id", "input_address", "match", "match_type",
     "matched_address", "lonlat", "tiger_line_id", "side",
 ]
-
 
 def load_and_prepare(input_csv: str) -> pd.DataFrame:
     df = pd.read_csv(input_csv, dtype=str, encoding="utf-8")
@@ -69,7 +68,6 @@ def load_and_prepare(input_csv: str) -> pd.DataFrame:
         )
     return df[required]
 
-
 def split_addresses(df: pd.DataFrame) -> list[str]:
     os.makedirs(BATCH_DIR, exist_ok=True)
     paths = []
@@ -80,7 +78,6 @@ def split_addresses(df: pd.DataFrame) -> list[str]:
         paths.append(path)
     print(f"Split {len(df)} addresses into {len(paths)} batch file(s).")
     return paths
-
 
 def submit_batch(path: str) -> str:
     last_err = None
@@ -100,7 +97,6 @@ def submit_batch(path: str) -> str:
             print(f"  attempt {attempt}/{MAX_RETRIES} failed: {e}")
             time.sleep(30)
     raise RuntimeError(f"Failed to geocode {path}: {last_err}")
-
 
 def reassemble(batch_paths: list[str]) -> pd.DataFrame:
     os.makedirs(RESULT_DIR, exist_ok=True)
@@ -124,15 +120,36 @@ def reassemble(batch_paths: list[str]) -> pd.DataFrame:
     full["lon"] = lonlat[0]
     full["lat"] = lonlat[1]
     full = full.drop(columns=["lonlat"])
-    full.to_csv(OUTPUT_CSV, index=False, encoding="utf-8")
 
-    matched = (full["match"] == "Match").sum()
-    print(f"\nDone: {len(full)} addresses processed, {matched} matched "
-          f"({matched/len(full):.1%}), saved to {OUTPUT_CSV}")
     return full
 
+def geocode_df(df: pd.DataFrame, id_col, street_col, city_col, state_col, zip_col) -> pd.DataFrame:
+    """
+    Geocode a DataFrame of addresses using the Census batch geocoder.
+
+    Returns:
+        pd.DataFrame: DataFrame with geocoding results including lon/lat.
+    """
+    # Rename columns to match expected names
+    df = df.rename(columns={
+        id_col: "id",
+        street_col: "street",
+        city_col: "city",
+        state_col: "state",
+        zip_col: "zip"
+    })
+
+    # Split addresses into batches and reassemble results
+    batch_paths = split_addresses(df)
+    result_df = reassemble(batch_paths)
+    
+    return result_df
 
 if __name__ == "__main__":
     df = load_and_prepare(INPUT_CSV)
     batch_paths = split_addresses(df)
-    reassemble(batch_paths)
+    full =reassemble(batch_paths)
+    full.to_csv(OUTPUT_CSV, index=False, encoding="utf-8")
+    matched = (full["match"] == "Match").sum()
+    print(f"\nDone: {len(full)} addresses processed, {matched} matched "
+            f"({matched/len(full):.1%}), saved to {OUTPUT_CSV}")
