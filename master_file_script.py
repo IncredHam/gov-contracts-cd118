@@ -4,8 +4,8 @@ import re
 import zipfile
 from datetime import datetime
 from pathlib import Path
-
 import pandas as pd
+import duckdb
 
 KEEP_COLS = [
     "contract_transaction_unique_key",
@@ -86,7 +86,6 @@ TARGET_PATH = Path("master.parquet")
 def normalize_text(series):
     return series.astype(str).str.strip().str.upper()
 
-
 def filter_us_rows(df):
     if df.empty:
         return df
@@ -97,9 +96,7 @@ def filter_us_rows(df):
         mask |= normalize_text(df["recipient_country_name"]).isin(US_COUNTRY_VALUES)
     return df.loc[mask]
 
-
 ZIP_DATE_PATTERN = re.compile(r"(\d{8})\.zip$", re.IGNORECASE)
-
 
 def parse_zip_date(zip_path):
     match = ZIP_DATE_PATTERN.search(zip_path.name)
@@ -110,7 +107,6 @@ def parse_zip_date(zip_path):
     except ValueError:
         return None
 
-
 def get_last_modified_date(zip_paths):
     dates = [
         date
@@ -118,7 +114,6 @@ def get_last_modified_date(zip_paths):
         if date is not None
     ]
     return max(dates) if dates else None
-
 
 def read_parquet_last_modified_date(target_path):
     try:
@@ -135,7 +130,6 @@ def read_parquet_last_modified_date(target_path):
     if value is None:
         return None
     return value.decode("utf-8", errors="ignore")
-
 
 def read_zip_csv_chunks(zip_path, keep_cols):
     with zipfile.ZipFile(zip_path, "r") as archive:
@@ -162,7 +156,6 @@ def read_zip_csv_chunks(zip_path, keep_cols):
                     chunk = filter_us_rows(chunk)
                     if not chunk.empty:
                         yield chunk
-
 
 def write_parquet(chunks, target_path, last_modified_date=None):
     try:
@@ -195,7 +188,6 @@ def write_parquet(chunks, target_path, last_modified_date=None):
             )
         pq.write_table(table, target_path, compression="snappy")
 
-
 def main():
     if TARGET_PATH.exists():
         last_modified_date = read_parquet_last_modified_date(TARGET_PATH)
@@ -226,6 +218,76 @@ def main():
 
     print(f"wrote {TARGET_PATH}")
 
+    con = duckdb.connect()
+    con.execute("""
+    COPY (
+        SELECT 
+            *,
+
+            TRIM(recipient_uei) AS clean_uei,
+            TRIM(recipient_name) AS clean_name,
+
+            REGEXP_REPLACE(
+                REGEXP_REPLACE(
+                    REGEXP_REPLACE(
+                        REGEXP_REPLACE(
+                            REGEXP_REPLACE(
+                                REGEXP_REPLACE(
+                                    REGEXP_REPLACE(
+                                        REGEXP_REPLACE(
+                                            REGEXP_REPLACE(
+                                                REGEXP_REPLACE(
+                                                    REGEXP_REPLACE(
+                                                        REGEXP_REPLACE(
+                                                            REGEXP_REPLACE(
+                                                                REGEXP_REPLACE(
+                                                                    REGEXP_REPLACE(
+                                                                        REGEXP_REPLACE(
+                                                                            UPPER(TRIM(recipient_address_line_1)),'[,.]','','g'
+                                                                        ),
+                                                                        '\\s+(STE|SUITE|UNIT|APT|APARTMENT|BLDG|BLDNG)\\b.*$', ''
+                                                                    ),
+                                                                    '\\bSTREET\\b', 'ST'
+                                                                ),
+                                                                '\\bAVENUE\\b', 'AVE'
+                                                            ),
+                                                            '\\bHIGHWAY\\b', 'HWY'
+                                                        ),
+                                                        '\\bROAD\\b', 'RD'
+                                                    ),
+                                                    '\\bPLACE\\b', 'PL'
+                                                ),
+                                                '\\bBOULEVARD\\b', 'BLVD'
+                                            ),
+                                            '\\bDRIVE\\b', 'DR'
+                                        ),
+                                        '\\bLANE\\b', 'LN'
+                                    ),
+                                    '\\bCIRCLE\\b', 'CIR'
+                                ),
+                                '\\s*#.*$', ''
+                            ),
+                            '\\bNORTH\\b','N'
+                        ),
+                        '\\bSOUTH\\b','S'
+                    ),
+                    '\\bEAST\\b','E'
+                ),
+                '\\bWEST\\b','W'
+            ) AS clean_address,
+
+            UPPER(TRIM(recipient_city_name)) AS clean_city,
+            UPPER(TRIM(recipient_state_code)) AS clean_state,
+            LEFT(TRIM(recipient_zip_4_code), 5) AS clean_zip
+
+        FROM 'master.parquet'
+    )
+    TO 'master.parquet'
+    (FORMAT PARQUET);
+    """)
+
+    con.close()
+    print("Wrote cleaned data to master.parquet")
 
 if __name__ == "__main__":
     main()
